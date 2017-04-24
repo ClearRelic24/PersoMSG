@@ -1,0 +1,26 @@
+name: persomsg
+main: me.clearrelic24.persomsg.persomsg
+version: 1.0.1
+description: CR24 STUDIO 
+author: CR24Studio
+commands:
+   forum:
+     description: Set yourself on fire.
+     aliases: [forum]
+     permission: persomsg.forum
+   youtube:
+     description: Set yourself on fire.
+     aliases: [youtube]
+     permission: persomsg.ytb
+   website:
+     description: Display your website
+     aliases: [website]
+     permission: persomsg.website
+   map:
+     description: Display your dynmap
+     aliases: [map]
+     permission: persomsg.map 
+   mdj:
+     description: Display your motdujour
+     aliases: [map]
+     permission: persomsg.map 
